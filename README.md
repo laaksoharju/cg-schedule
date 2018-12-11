@@ -1,4 +1,5 @@
 # cg-schedule
+Simple interval scheduling app
 
 ## Project setup
 ```
@@ -19,3 +20,9 @@ npm run build
 ```
 npm run lint
 ```
+
+### Browser
+
+When server is running, visit the following page in a web browser:
+
+http://localhost:8080/
